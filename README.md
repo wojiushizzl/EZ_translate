@@ -1,7 +1,7 @@
 # EZ_translate
 # 一个超级简洁（陋）的桌面截图翻译助手
 
-![DEMO](DEMO.gif)
+![DEMO.gif](https://raw.githubusercontent.com/wojiushizzl/EZ_translate/master/demo.gif)
 
 ## 安装
 ```
