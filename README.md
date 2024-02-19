@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 ## 使用方法
 ```
-python main.py //运行后台程序
+python main.py #运行后台程序
 ```
 
     "Alt+z" 唤醒英译中
