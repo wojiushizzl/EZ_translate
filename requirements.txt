@@ -1,0 +1,12 @@
+paddlepaddle==2.6.0
+argostranslate
+pillow
+pynput
+
+
+#python == 3.8
+#torch-2.1.1+cu118-cp38-cp38-win_amd64.whl
+#torchaudio-2.1.1+cu118-cp38-cp38-win_amd64.whl
+#torchvision-0.16.1+cu118-cp38-cp38-win_amd64.whl
+#cuda_11.8.0_522.06_windows.exe
+#cudnn-windows-x86_64-8.9.4.25_cuda11-archive.zip
