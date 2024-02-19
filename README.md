@@ -1,5 +1,5 @@
-# EZ_translate
-# 一个超级简洁（陋）的桌面截图翻译助手
+# EZ_translate 本地部署，无需联网
+## 一个超级简洁（陋）的桌面截图翻译助手
 
 ![DEMO.gif](https://raw.githubusercontent.com/wojiushizzl/EZ_translate/master/demo.gif)
 
